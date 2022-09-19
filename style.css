@@ -148,7 +148,7 @@ body{
         .aside_part2_bg{
             width:35vw;
             height: 100vh;
-            background: url("https://eseodiase.github.io/Brainie/images/Brainie_BG.png")no-repeat;
+            background: url("images/Brainie_BG.png")no-repeat;
             background-clip: content-box;
             background-size: 100%;
             background-position: center top;
