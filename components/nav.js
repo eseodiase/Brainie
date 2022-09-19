@@ -4,7 +4,7 @@ const nav = ()=>{
        <div class="logo">
        <label class="">John Doe</label>
        
-       <img src="https://eseodiase.github.io/Brainie/images/johnD.png" alt="Publisher" width="50" height="50" style="border-radius:50%"/>
+       <img src="images/johnD.png" alt="Publisher" width="50" height="50" style="border-radius:50%"/>
        <br/>
           <i class="fa fa-twitter"></i>
           <i class="fa fa-instagram"></i>
