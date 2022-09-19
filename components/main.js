@@ -8,7 +8,7 @@ const main =()=>{
            <h4>Best Seller</h4>
            <div class="main_parts">
                 <div class="card">
-                <img src="https://eseodiase.github.io/Brainie/images/book1.png" class="bookCover" alt="1"/>
+                <img src="images/book1.png" class="bookCover" alt="1"/>
                 </div>
                 <p>
                 Book One
@@ -21,7 +21,7 @@ const main =()=>{
            
   <div class="main_parts">
                 <div class="card">
-                <img src="https://eseodiase.github.io/Brainie/images/book2.png" class="bookCover" alt="2"/>
+                <img src="images/book2.png" class="bookCover" alt="2"/>
                 </div>
                 <p>
                 Book Two
@@ -34,7 +34,7 @@ const main =()=>{
            
   <div class="main_parts">
                 <div class="card">
-                <img src="https://eseodiase.github.io/Brainie/images/book3.png" class="bookCover" alt="3"/>
+                <img src="images/book3.png" class="bookCover" alt="3"/>
                 </div>
                 <p>
                 Book Three
@@ -47,7 +47,7 @@ const main =()=>{
            
   <div class="main_parts">
                 <div class="card">
-                <img src="https://eseodiase.github.io/Brainie/images/book4.png" class="bookCover" alt="4"/>
+                <img src="images/book4.png" class="bookCover" alt="4"/>
                 </div>
                 <p>
                 Book Four
@@ -61,7 +61,7 @@ const main =()=>{
   <h4>Trending Books</h4>        
   <div class="main_parts">
                 <div class="card">
-                <img src="https://eseodiase.github.io/Brainie/images/book5.png" class="bookCover" alt="5"/>
+                <img src="images/book5.png" class="bookCover" alt="5"/>
                 </div>
                 <p>
                 Book Five
@@ -74,7 +74,7 @@ const main =()=>{
            
   <div class="main_parts">
                 <div class="card">
-                <img src="https://eseodiase.github.io/Brainie/images/book6.png" class="bookCover" alt="6"/>
+                <img src="images/book6.png" class="bookCover" alt="6"/>
                 </div>
                 <p>
                 Book Six
@@ -87,7 +87,7 @@ const main =()=>{
                 
   <div class="main_parts">
                 <div class="card">
-                <img src="https://eseodiase.github.io/Brainie/images/book7.png" class="bookCover" alt="7"/>
+                <img src="images/book7.png" class="bookCover" alt="7"/>
                 </div>
                 <p>
                 Book Seven
@@ -100,7 +100,7 @@ const main =()=>{
                 
   <div class="main_parts">
                 <div class="card">
-                <img src="https://eseodiase.github.io/Brainie/images/book8.png" class="bookCover" alt="8"/>
+                <img src="images/book8.png" class="bookCover" alt="8"/>
                 </div>
                 <p>
                 Book Eight
@@ -114,7 +114,7 @@ const main =()=>{
   <h4>Favourite Read</h4>
   <div class="main_parts">
                 <div class="card">
-                <img src="https://eseodiase.github.io/Brainie/images/book9.png" class="bookCover" alt="9"/>
+                <img src="images/book9.png" class="bookCover" alt="9"/>
                 </div>
                 <p>
                 Book Nine
@@ -127,7 +127,7 @@ const main =()=>{
                 
   <div class="main_parts">
                 <div class="card">
-                <img src="https://eseodiase.github.io/Brainie/images/book10.png" class="bookCover" alt="10"/>
+                <img src="images/book10.png" class="bookCover" alt="10"/>
                 </div>
                 <p>
                 Book Ten
@@ -140,7 +140,7 @@ const main =()=>{
                 
   <div class="main_parts">
                 <div class="card">
-                <img src="https://eseodiase.github.io/Brainie/images/book11.png"
+                <img src="images/book11.png"
                 
                 class="bookCover" alt="11"/>
                 </div>
@@ -155,7 +155,7 @@ const main =()=>{
                 
   <div class="main_parts">
                 <div class="card">
-                <img src="https://eseodiase.github.io/Brainie/images/book12.png"" class="bookCover" alt="12"/>
+                <img src="images/book12.png"" class="bookCover" alt="12"/>
                 </div>
                 <p>
                 Book Twelve
