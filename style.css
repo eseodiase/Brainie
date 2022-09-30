@@ -99,7 +99,7 @@ body{
         }
      .inTouch{
             width: 13vw;
-            margin-top: 240px;
+            margin-top: 226px;
             position: absolute;
         }
       .inTouch p{
@@ -151,7 +151,7 @@ body{
             background: url("images/Brainie_BG.png")no-repeat;
             background-clip: content-box;
             background-size: 100%;
-            background-position: center bottom;
+            background-position: center;
         }
         
 /* main styling */
