@@ -22,3 +22,10 @@ CONTRIBUTORS: none,
 DEVELOPER: Ese Odiase,
 
 URL: http://www.eseodiase.website/
+
+CREATIVE HASHTAGS:
+
+#WebAppNFTs
+#ProgrammingCodeNFTs
+#designbyese 
+#developedbyese
